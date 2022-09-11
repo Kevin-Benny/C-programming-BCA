@@ -1,50 +1,26 @@
 Sem 2
 file name:						Keywords:					Desc:
 
-binarytree.c
-fork.c
-Inserting Element (Array 1).c
-Insertion sort.c
-lab_2(1941028).c
-lab_2(delete_stg).c
-linear__binary-search.c
-linklistwithstack.c
-p3(1941028).c
-playing cards.c
-prg5q1(insertion sort).c
-prog1_1941028.c
-q8(mergesort).c
-q8.c
-quicksort.c
-quicksortwithname.c
-remove a sting.c
-selection sort.c
-sparsematrix.c
-sparsematrix_without_struct.c
-Stack.c
-Sting_Search.c
-transpose.c
-
 
 Sem 1.2
 file name:						Keywords:					Desc:
 
-test2.c						functions looping switch case		calculate simple and compound intrest and find the diffrence of this twos
-structure(class,no).c				global struct s[n]			create and search student mark details
-cia 3structures and funtion.cpp		stuct global				book info
-sort no array pointer.c				functions, pointer int array		sort a array of numbers
-sort a array in assending.c			for						linear sort
+test2.c							functions looping switch case		calculate simple and compound intrest and find the diffrence of this twos
+structure(class,no).c					global struct s[n]			create and search student mark details
+cia 3structures and funtion.cpp				stuct global				book info
+sort no array pointer.c					functions, pointer int array		sort a array of numbers
+sort a array in assending.c				for						linear sort
 prog#11Q2.c						2dmatrics passed to function 		entering and displaying 2d matric 
 pointer.c						pounter					pointer fun practice
 functions with array(SI,CI,diff).c								Simple, compound intrest and its diffrence
 function(SI,CI,diff).c			
-struct_filefinder.c				struct FILE *filename fopen(w)	open and write to file							
-file_write.c					char array (w)
-file write and scan.c				menu driven, application based	Employee with basic salary, taxing, DA, HRA, PF
-file reading.c					fopen(r)					practice
-Febonnacci.c					recursive function			find febonnacci
-command and argument.c				int main(int argc, char *argv[])	practice
-bitwiseshift.c					do while, char				practice X bitwise shift of numbers find n*2^shiftno
+struct_filefinder.c					struct FILE *filename fopen(w)	open and write to file							
+file_write.c						char array (w)
+file write and scan.c					menu driven, application based	Employee with basic salary, taxing, DA, HRA, PF
+file reading.c						fopen(r)					practice
+Febonnacci.c						recursive function			find febonnacci
+command and argument.c					int main(int argc, char *argv[])	practice
+bitwiseshift.c						do while, char				practice X bitwise shift of numbers find n*2^shiftno
 bitwise.c						tseek, fread				practice X integer even or odd
 
 
@@ -53,16 +29,16 @@ file name:						Keywords:					Desc:
 
 add,sub,mul of mat.c:										menu driven 2D array matrics calculator-addition, mul, subraction 
 trans and add of mat.c										Find Transporse of a matrics
-data types sizemine.c	✓			CHAR_MIN,CHAR_MAX				Display max,min value of all datatypes
+data types sizemine.c	✓				CHAR_MIN,CHAR_MAX				Display max,min value of all datatypes
 size pro.c												Display range value of datatypes
-data Size byte.cpp				sizeof()					Display size of all datatypes
-Range data type.cpp				LDBL_MIN,LDBL_MAX				Display max,min value of all datatypes
+data Size byte.cpp					sizeof()					Display size of all datatypes
+Range data type.cpp					LDBL_MIN,LDBL_MAX				Display max,min value of all datatypes
 magic square.c											Build a n,n magic square
 month no						Switch					leap year or not,31 or 30 dat=ys month
 Patterns.c												Make designs using * and numbers
 a++ crazyq.c:											Fun increment problem
 
-LowertoUpper.c					Strings					lower to upper -32
+LowertoUpper.c						Strings					lower to upper -32
 uppertolower.c											upper to lower for capital alphabet
 ARMSTRONG.c												Find no is Armstrong or not
 armstrong_btw_2_no.c										Find all armstrong numbers been two number point
