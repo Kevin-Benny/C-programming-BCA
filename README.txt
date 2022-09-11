@@ -67,6 +67,7 @@ month no						Switch						leap year or not,31 or 30 dat=ys month
 Patterns.c												Make designs using * and numbers
 a++ crazyq.c:												Fun increment problem
 
+
 LowertoUpper.c						Strings						lower to upper -32
 uppertolower.c												upper to lower for capital alphabet
 ARMSTRONG.c												Find no is Armstrong or not
@@ -76,27 +77,29 @@ find prime no .c											Find all prime number from 1 to n numbers
 depeciation.c												find depeciation using AMOUNT,PERCENTAGE OF DEPRECIATION AND YEARS
 factorial.c												find factorial of a number
 Faren to centi.c											°F to °C
-COMPOUND INTREST.c:										Find CI 
-largest no of 3.c					nested if else				finds the largest and second largest no
-odd and evposition.c										sum of odd <=> Sum of even digits
+COMPOUND INTREST.c:											Find CI 
+largest no of 3.c					nested if else					finds the largest and second largest no
+odd and evposition.c											sum of odd <=> Sum of even digits
 reverse.c												Find reverse of a number
-roots of quad eq.c										Find roots of a quadratic eq is real, equal or doesnt exist
-stringpalindrome.c										FInd palindrome or not
-sum_of_digits.c											sum of a number based of digit 512 = 5+2+1
-sum_of_the_power_of_the_digits.c								number =123 power =3 	Result = 3^3 + 2^3 + 1^3
-	
+roots of quad eq.c											Find roots of a quadratic eq is real, equal or doesnt exist
+stringpalindrome.c											FInd palindrome or not
+sum_of_digits.c												sum of a number based of digit 512 = 5+2+1
+sum_of_the_power_of_the_digits.c									number =123 power =3 	Result = 3^3 + 2^3 + 1^3
+
+Application based:
+library booking.c			Switch case, if else,double		Handle customer id, student/faculty, borrowing and returning books, fine when book damaged
+job.c							Switch case, if else				Cal net pay using basic salary, experience	
+
 Practice:
-Q2math prb.c											Fun math equations
+Q2math prb.c												Fun math equations
 functions eg.c
 k,18,m.c
 matrics.c
-no_of_stings_used.c										Size of enterd string
+no_of_stings_used.c											Size of enterd string
 string .c						getchar with \0
-090719reduce_power.c: 										number =123 power =3 	Result = 3^3 + 2^3 + 1^3
+090719reduce_power.c: 											number =123 power =3 	Result = 3^3 + 2^3 + 1^3
 
 
-Application based:
-library booking.c					Switch case, if else,double		Handle customer id, student/faculty, borrowing and returning books, fine when book damaged
-job.c							Switch case, if else			Cal net pay using basic salary, experience
+
 
 
