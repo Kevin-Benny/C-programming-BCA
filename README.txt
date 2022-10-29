@@ -4,22 +4,22 @@ C programming that was done during my bachelors
 Indexing to the programs in repository:
 
 Sem 2
-file name:						Keywords:					Desc:
+file name:	          Keywords:		            Desc:
 
 remove a sting.c      char array           add elements, delete element and bit shifting to fill, delete elements from x to y position and delete duplicates string array
-Sting_Search.c        strstr(str1,str2)                     practice:: #include<string.h> #include<stdbool.h>
-playing cards.c       struct with pointer fun               1)Initialize or sort 2)display 3)Shuffle
-binarytree.c          struct node, node* newNode,func       1)preorder traversal 2)Inorder traversal 3)Postorder traversal
+Sting_Search.c            strstr(str1,str2)                 practice:: #include<string.h> #include<stdbool.h>
+playing cards.c           struct with pointer fun           1)Initialize or sort 2)display 3)Shuffle
+binarytree.c              struct node, node* newNode,func   1)preorder traversal 2)Inorder traversal 3)Postorder traversal
 fork.c                                                      practice basic
 linear__binary-search.c   menu driven                       1.Linear Search\n2.Linear Search without sentinel\n3.Binary Search
 linklistwithstack.c       struct linked list declared at main       defining stack size, stacking and popping using linked list- stuct node{int data;struct node* link;};
-q8(mergesort).c           recursive function      merge sort  1.ENTER THE NO. OF ELEMENTS 2.DISPLAY ELEMENTS 2.TO SORT THE ELEMENTS
+q8(mergesort).c           recursive function, merge sort    1.ENTER THE NO. OF ELEMENTS 2.DISPLAY ELEMENTS 2.TO SORT THE ELEMENTS
 q8.c                      merge sort
 quicksort.c                                                 1.Enter no of elements 2.DISPLAY ELEMENTS 3.SHOW STEP BY STEP PROCESS OF SWAPPING IN EACH ITIRATION
 quicksortwithname.c       alphabetic sorting                quick sorting 1.DISPLAY ELEMENTS 2.STEP BY STEP PROCESS OF SWAPPING 3. SORT ARRAY OF N NAMES
 prog1_1941028.c           int array                         adding element in first 2.add at end 3.for add at n no
 Inserting Element (Array 1).c                               enter element at any postion in array and array shifting  
-lab_2(delete_stg).c      int array                          enter array of element and delete any element from any position and array shifting to fill deleted postion
+lab_2(delete_stg).c       int array                         enter array of element and delete any element from any position and array shifting to fill deleted postion
 p3(1941028).c                                               1.Linear Search\n2.Linear Search without sentinel\n3.Binary Search
 selection sort.c    
 sparsematrix.c                                              matrics using stucture
