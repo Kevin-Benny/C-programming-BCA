@@ -6,13 +6,13 @@ Indexing to the programs in repository:
 Sem 2
 file name:	          Keywords:		            Desc:
 
-remove a sting.c      char array           add elements, delete element and bit shifting to fill, delete elements from x to y position and delete duplicates string array
+remove a sting.c          char array       add elements, delete element and bit shifting to fill, delete elements from x to y position and delete duplicates string array
 Sting_Search.c            strstr(str1,str2)                 practice:: #include<string.h> #include<stdbool.h>
 playing cards.c           struct with pointer fun           1)Initialize or sort 2)display 3)Shuffle
 binarytree.c              struct node, node* newNode,func   1)preorder traversal 2)Inorder traversal 3)Postorder traversal
 fork.c                                                      practice basic
 linear__binary-search.c   menu driven                       1.Linear Search\n2.Linear Search without sentinel\n3.Binary Search
-linklistwithstack.c       struct linked list declared at main       defining stack size, stacking and popping using linked list- stuct node{int data;struct node* link;};
+linklistwithstack.c       struct linked list declared at main  defining stack size, stacking and popping using linked list- stuct node{int data;struct node* link;};
 q8(mergesort).c           recursive function, merge sort    1.ENTER THE NO. OF ELEMENTS 2.DISPLAY ELEMENTS 2.TO SORT THE ELEMENTS
 q8.c                      merge sort
 quicksort.c                                                 1.Enter no of elements 2.DISPLAY ELEMENTS 3.SHOW STEP BY STEP PROCESS OF SWAPPING IN EACH ITIRATION
